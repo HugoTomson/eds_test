@@ -1,16 +1,14 @@
 # edstest
 
-test app for eds
+Test app for eds.corp
 
-## Getting Started
+Уточнения:
+1. Сделал кеширование всех данных.
+2. Использовал виджет рефреша, но не стал добавлять логику для обновления.
+3. Не использовал скелетоны и прелоудеры для ожидания загрузки контента.
+4. Не делал в альбомном режиме.
+4. Проверил на ios/android.
 
-This project is a starting point for a Flutter application.
+Время разработки 10-12 часов
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ 
