@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg870"
+   sodipodi:docname="outline-chevron-left.svg"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs874" />
+  <sodipodi:namedview
+     id="namedview872"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="15.75"
+     inkscape:cx="9.9047619"
+     inkscape:cy="15.047619"
+     inkscape:window-width="1312"
+     inkscape:window-height="794"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="outline_chevron-right" />
+  <g
+     id="outline_chevron-right"
+     data-name="outline/chevron-right"
+     transform="translate(-300,-252)">
+    <g
+       id="arrow-right"
+       transform="rotate(179.72321,312,264)">
+      <path
+         id="Vector"
+         d="M 0.609,14 A 0.606,0.606 0 0 1 0.177,12.966 L 5.486,7.7 a 0.988,0.988 0 0 0 0,-1.405 L 0.177,1.032 a 0.606,0.606 0 0 1 0,-0.856 0.618,0.618 0 0 1 0.863,0 L 6.349,5.441 A 2.19,2.19 0 0 1 7,7 2.157,2.157 0 0 1 6.349,8.558 L 1.04,13.822 A 0.642,0.642 0 0 1 0.609,14 Z"
+         transform="translate(309,257)"
+         fill="#2c3e50" />
+      <path
+         id="Vector-2"
+         data-name="Vector"
+         d="M 0,0 H 24 V 24 H 0 Z"
+         transform="translate(300,252)"
+         fill="none"
+         opacity="0" />
+    </g>
+  </g>
+</svg>
